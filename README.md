@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://github.com/Keshavah-reddy/-android-spyware/issues">Report Bug</a>
     ·
-    <a href="https://github.com/keshavah-reddy/android-spyware/issues">Request Feature</a>
+    <a href="https://github.com/Keshavah-reddy/-android-spyware/issues">Request Feature</a>
   </p>
 </p>
 
